@@ -1,11 +1,11 @@
 # Detecting-Disaster
 #Introduction
 
-Disasters have become very prevalent in recent years​
-Millions of People are dying and suffering​
-Times like these are when timely response is crucial…​
-Unfortunately  the incidents are not responded to on time; it is always too late​
-Severity of the incident is difficult to determine and exact location of the incident is a big challenge itself
+*Disasters have become very prevalent in recent years
+*Millions of People are dying and suffering
+*Times like these are when timely response is crucial…​
+*Unfortunately  the incidents are not responded to on time; it is always too late​
+*Severity of the incident is difficult to determine and exact location of the incident is a big challenge itself
 
 ![Capturde](https://user-images.githubusercontent.com/55071900/73589713-3afbfd00-4504-11ea-87a6-99f1dbac181c.PNG)
 

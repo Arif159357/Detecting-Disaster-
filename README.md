@@ -13,11 +13,11 @@
 
 ![Capturde](https://user-images.githubusercontent.com/55071900/73589713-3afbfd00-4504-11ea-87a6-99f1dbac181c.PNG)
 
-#The Impact of Social Media
+## The Impact of Social Media
 
-Nowadays everybody has a social media account​
-People tend to post or share any big event in the social network​
-There are many cases when news come in social media (including pictures) faster than it comes through official news channel
+* Nowadays everybody has a social media account​
+* People tend to post or share any big event in the social network​
+* There are many cases when news come in social media (including pictures) faster than it comes through official news channel
 
 #How Social Media will Help us
 

@@ -46,7 +46,7 @@
 
 ![image](https://user-images.githubusercontent.com/55071900/73589767-fd4ba400-4504-11ea-8dfe-5386c94b1b96.png)
 
-#Difference Between Fire Disasters
+# Difference Between Fire Disasters
 
 * SAD contains both live fire images and post fire images​
 * UCI dataset mostly contains live fire images​
